@@ -1,0 +1,38 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fairviewadminpanel-staging-62745-authRole",
+      "UnauthRoleArn": "arn:aws:iam::764301609041:role/amplify-fairviewadminpanel-staging-62745-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::764301609041:role/amplify-fairviewadminpanel-staging-62745-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fairviewadminpanel-staging-62745-deployment",
+      "UnauthRoleName": "amplify-fairviewadminpanel-staging-62745-unauthRole",
+      "StackName": "amplify-fairviewadminpanel-staging-62745",
+      "StackId": "arn:aws:cloudformation:us-east-1:764301609041:stack/amplify-fairviewadminpanel-staging-62745/b6c6cd20-9471-11ec-b22d-0e8a3c442c39",
+      "AmplifyAppId": "d259kfywkgy7nw"
+    },
+    "categories": {
+      "auth": {
+        "fairviewadminpanel": {
+          "userPoolId": "us-east-1_3Vb9EzUJE",
+          "userPoolName": "fairview1",
+          "webClientId": "6l2b78fja9u9d4ke4kt34vter",
+          "nativeClientId": "6l2b78fja9u9d4ke4kt34vter",
+          "identityPoolId": "us-east-1:eb4506f2-197d-4e8f-90ff-c9f07cbbb3ac",
+          "identityPoolName": "fairview1",
+          "allowUnauthenticatedIdentities": true,
+          "authRoleArn": "arn:aws:iam::764301609041:role/amplify-fairview-fvdev-160425-authRole",
+          "authRoleName": "amplify-fairview-fvdev-160425-authRole",
+          "unauthRoleArn": "arn:aws:iam::764301609041:role/amplify-fairview-fvdev-160425-unauthRole",
+          "unauthRoleName": "amplify-fairview-fvdev-160425-unauthRole"
+        }
+      },
+      "storage": {
+        "fairviewadminpanelf7e6ab36": {
+          "bucketName": "fairview1",
+          "region": "us-east-1"
+        }
+      }
+    }
+  }
+}

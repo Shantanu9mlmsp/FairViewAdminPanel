@@ -1,0 +1,11 @@
+{
+  "authSelections": "identityPoolAndUserPool",
+  "resourceName": "fairviewadminpanel",
+  "serviceType": "imported",
+  "region": "us-east-1",
+  "requiredAttributes": [],
+  "passwordPolicyMinLength": 6,
+  "passwordPolicyCharacters": [],
+  "mfaConfiguration": "OFF",
+  "mfaTypes": []
+}
